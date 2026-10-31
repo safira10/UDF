@@ -16,7 +16,7 @@ Trabalhos da minha graduação em **Engenharia de Software** no Centro Universit
 |:--|:--|:--|
 | [algoritmos-bubble-sort](./algoritmos-bubble-sort) | Algoritmos e Pensamento Computacional | Bubble Sort em C com o tema consumo de energia (trabalho em grupo) |
 | [blog-receitas](./blog-receitas) | Desenvolvimento front-end para web | Site de blog de receitas com CRUD completo; fiquei com o front-end |
-| [Monitoriamento-em-C](./monitoramento-em-C) | Algoritmos e Pensamento Computacional | Atividade de monitoramento em C |
+| [Monitoramento-em-C](./monitoramento-em-C) | Algoritmos e Pensamento Computacional | Atividade de monitoramento em C |
 | [Calculadora_Flowgorithm_C-main](./Calculadora_Flowgorithm_C-main) | Algoritmos e Pensamento Computacional | Calculadora em C com números decimais (float) |
 | [desafio-colaborativo-git](./desafio-colaborativo-git) | Algoritmos e Pensamento Computacional | Desafio colaborativo de Git |
 | [calculadora-cientifica-c](./calculadora-cientifica-c) | Algoritmos e Pensamento Computacional | Calculadora científica em C |
