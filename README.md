@@ -20,6 +20,7 @@ Trabalhos da minha graduação em **Engenharia de Software** no Centro Universit
 | [Calculadora_Flowgorithm_C-main](./Calculadora_Flowgorithm_C-main) | Algoritmos e Pensamento Computacional | Calculadora em C com números decimais (float) |
 | [desafio-colaborativo-git](./desafio-colaborativo-git) | Algoritmos e Pensamento Computacional | Desafio colaborativo de Git |
 | [calculadora-cientifica-c](./calculadora-cientifica-c) | Algoritmos e Pensamento Computacional | Calculadora científica em C |
+| [Banco_de_dados](./Banco_de_dados) | Banco de Dados | Banco de dados acadêmico em SQL com cursos, turmas, alunos, professores, frequência e notas, feito em sala de aula |
 
 ---
 
